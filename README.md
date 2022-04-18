@@ -49,8 +49,8 @@ The code is not refactored, no coding style is followed, the only purpose of the
 platform tests of a given problem.
 
 ## Problems
-|Number|Title|Difficulty|Solution|
-|-|-|-|-|
+|Number|Title|Difficulty|Solution Java|Solution Python
+|-|-|-|-|-|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[Solution.java](Problems/1/Solution.java)|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[Solution.java](Problems/2/Solution.java)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[Solution.java](Problems/3/Solution.java)|
